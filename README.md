@@ -5,3 +5,5 @@ Text mining in the clinical domain has become increasingly important with the nu
 ## TASK
 Named-entity recognition (NER) is the recognition process of numerous proper nouns (or given target phrases) that we establish as entity types to be labeled. The datasets used to evaluate NER are structured in the BIO (Beginning, Inside, Outside) schema, the most common tagging format for sentence tokens within this task. Additionally, an “S” like in “S-Protein” can be used to infer a single token. That way we can note the positional prefix and entity type that is being predicted from the training data.
 
+![architechture](https://github.com/rishabhindoria25/Biomedical-text-tagging-biobert/assets/113393377/853e2dbc-407d-4648-98ae-c5cbd53c2acc)
+
